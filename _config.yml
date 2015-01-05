@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            digitaljoni
+tagline:          'Front-end development blog'
+description:      'Building single page web applications'
+url:              http://digitaljoni.com
+baseurl:          /
+
+author:
+  name:           'Joennie Sindo'
+  url:            https://twitter.com/digitaljoni
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+# github:
+#   repo:           https://github.com/poole/hyde

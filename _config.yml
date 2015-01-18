@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            digitaljoni
 tagline:          'Front-end development blog'
-description:      'Building single page web applications'
+description:      'Thoughts on building single page web applications'
 url:              http://digitaljoni.com
 baseurl:          /
 

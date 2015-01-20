@@ -80,8 +80,15 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Wire One", serif;
+
+  font-family: 'Oswald', sans-serif;
   font-size: 4rem;
+  font-weight: normal;
+  letter-spacing: -3px;
+}
+
+.sidebar-about p {
+  line-height: 1.5rem;
 }
 
 /* Sidebar nav */

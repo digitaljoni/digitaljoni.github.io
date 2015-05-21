@@ -4,9 +4,7 @@ title: About
 weight: 1
 ---
 
-Hello! My name is Joennie Sindo. 
-
-I am a Front-End Developer focusing on building web-based software or popularly known as Single Page Web Applications.
+Hello! I am Digitaljoni, a Front-End Developer focusing on building web-based software or popularly known as Single Page Web Applications.
 
 In a nutshell, I am a highly creative and professional designer and developer. I bring with me a diverse set of skills specializing on bringing valuable user experience to your web site or apps. As design and development is constantly evolving, I am constantly seeking knowledge - keeping abreast with advances in technology, industry standards and practices, learning new software and techniques.
 
@@ -18,11 +16,6 @@ I have worked with companies and brands all over the world (US, Canada, Europe, 
 * UX/UI Design
 * PHP/MySQL Development
 * Javascript/jQuery
-
-
-## About The Site
-
-<p class="message">This site will focus on web development and ui/ux design concepts. If you are looking for my illustration/art, please visit <a href="http://jcsindo.com">jcsindo.com</a></p>
 
 Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/digitaljoni).
 

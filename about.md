@@ -6,7 +6,7 @@ weight: 1
 
 Hello! My name is Joennie Sindo. 
 
-I am currently the Head of Web Development for BETICA focusing on developing web-based software or popularly known as Single Page Web Applications.
+I am a Front-End Developer focusing on building web-based software or popularly known as Single Page Web Applications.
 
 In a nutshell, I am a highly creative and professional designer and developer. I bring with me a diverse set of skills specializing on bringing valuable user experience to your web site or apps. As design and development is constantly evolving, I am constantly seeking knowledge - keeping abreast with advances in technology, industry standards and practices, learning new software and techniques.
 
@@ -18,11 +18,6 @@ I have worked with companies and brands all over the world (US, Canada, Europe, 
 * UX/UI Design
 * PHP/MySQL Development
 * Javascript/jQuery
-
-## Certifications
-![CIW](/public/images/ciw-web-design-specialist-logo.png "CIW Web Design Specialist")
-![CIW](/public/images/bcip-webdesigner.png "Brainbench Web Designer")
-![CIW](/public/images/bcip-webdeveloper.png "Brainbench Web Developer")
 
 
 ## About The Site

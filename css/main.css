@@ -2,7 +2,7 @@ html, body {
   height: 100%;
   background-color: #fcfcfc;
   font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
-  min-height: 565px;
+  min-height: 500px;
 }
 
 /* Wrapper for page content to push down footer */

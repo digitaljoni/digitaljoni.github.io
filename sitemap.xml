@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://digitaljoni.com/resources/flutter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://digitaljoni.com/resources/dart/</loc>
+  </url>
+  
+  <url>
     <loc>https://digitaljoni.com/privacy/</loc>
     <lastmod>2018-09-06T00:35:37+08:00</lastmod>
   </url>

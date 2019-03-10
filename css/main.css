@@ -100,6 +100,14 @@ a:hover {
   color: #c67600;
 }
 
+
+.article-body {
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 300;
+}
+
 footer {
   font-family: 'Lato', sans-serif;
   font-size: 14px;
@@ -173,7 +181,7 @@ section.social a:hover
 @media (max-width: 576px) {
 
   .homepage .container {
-    margin-top: 10px;
+    margin: 10px;
   }
   
   .homepage section {
@@ -203,4 +211,19 @@ section.social a:hover
     justify-content: space-between;
   }
 
+}
+
+
+/* Tachyons Version */
+
+.mobile-menu-closed {
+  display: none;
+}
+
+.mobile-menu-open {
+  display: block;
+}
+
+.top-100 {
+  top: 100%;
 }

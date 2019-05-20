@@ -16,6 +16,12 @@
   </url>
   
   <url>
+    <loc>https://digitaljoni.com/</loc>
+    <lastmod>2018-09-06T00:35:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://digitaljoni.com/categories/</loc>
     <priority>0</priority>
   </url>
@@ -26,12 +32,6 @@
   
   <url>
     <loc>https://digitaljoni.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://digitaljoni.com/</loc>
-    <lastmod>2018-09-06T00:35:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   

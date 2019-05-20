@@ -17,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://digitaljoni.com/resources/flutter/</guid>
-      <description>Flutter is an open-source mobile app SDK created by Google. Flutter allows you to build an app using a single codebase that can be compiled to both Android and IOS. It is also used to build applications for Google Fuchsia OS.
+      <description>Flutter SDK is an open-source mobile app SDK created by Google. Flutter SDK allows you to build an app using a single codebase that can be compiled to both Android and IOS. It is also used to build applications for Google Fuchsia OS.
 You write your Flutter applications using a programming language called Dart. Unlike other solutions which uses a bridge, your Dart code gets compiled to machine code. This gives you the advantage of having native performance for your app.</description>
     </item>
     
@@ -28,7 +28,7 @@ You write your Flutter applications using a programming language called Dart. Un
       
       <guid>https://digitaljoni.com/resources/dart/</guid>
       <description>Dart is the programming language used on both Flutter and AngularDart. Developed by Google, it aims to enable developers to build complex and high-performing apps. One advantage of using Dart is that you can build your business logic once and use it on both mobile (Flutter) and web (AngularDart) applications. You can even use Dart server-side as well.
- Official Dart Site DartPad - a convenient tool to learn Dart syntax (supports Dart’s core libraries)  </description>
+ Official Dart Site DartPad - a convenient tool to learn Dart syntax (supports Dart’s core libraries) Effective Dart - best practices for building efficient Dart code  </description>
     </item>
     
     <item>

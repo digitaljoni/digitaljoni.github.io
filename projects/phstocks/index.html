@@ -11,7 +11,7 @@
 
   <base href="https://digitaljoni.com/">
 
-  <title>digitaljoni</title>
+  <title>PhStocks Tracker</title>
 
   <meta name="generator" content="Hugo 0.55.6" />
 
@@ -25,13 +25,12 @@
   <body>
     <div id="wrapper" 
       
-      class="custom-home-background" 
-      style="background-image: url(img/digitaljoni-header.jpg);"
-      
       >
       <header id="header" class="flex justify-between items-center z-2 bg-black">
 
         <h1 class="ml3">
+        
+          <a href="https://digitaljoni.com/"><img class=" h3" src="https://digitaljoni.com/img/logo2.png" alt=""></a>
         
         </h1>
         <a href="#0" id="mobile-menu-toggle" class="link pa3 dn-l">
@@ -70,27 +69,48 @@
       </header>
       
 
-<div class="homepage">
+  <article class="pa3 cf w-90-ns center">
+    <div class="article-title">
+      <h2>
+        <strong><a href="https://digitaljoni.com/projects/phstocks/">PhStocks Tracker</a></strong>
+      </h2>
+    </div>
 
-  <section>
-    <div>
-      <img src="https://digitaljoni.com/img/logo2.png" alt="">
-    </div>
     
 
-    <div class="container">
-      <p>
-        <a href="/resources/flutter">Flutter</a> developer/Front-end web developer.
-      </p>
+    <div class="article-body">
+      
+
+<p>PhStocks Tracker is a mobile app that Philippine stock investors can utilize to watch price changes to their selected stocks. This app is primarily focused on users who use Fundamental Analysis as their investment strategy.</p>
+
+<h3 id="why-i-built-the-app">Why I Built The App</h3>
+
+<p>If you are a busy person (i.e. a full-time employee or a student), you wouldn&rsquo;t have the time to go your stock broker&rsquo;s site daily to check the latest changes to your stocks.</p>
+
+<p>I built this app out of necessity&hellip; I wanted a way to track stock prices quickly. I didn&rsquo;t need the latest up-to-the-minute updates&hellip; just what are the latest prices at that day. If the time and price is just right, then I will find a moment to go to my stock broker&rsquo;s site to either buy or sell.</p>
+
+<h3 id="api-used">API Used</h3>
+
+<p>The app uses the Simple PSEi (formerly known as PHISIX) RESTful API (<a href="http://phisix-api4.appspot.com/" target="_blank">http://phisix-api4.appspot.com/</a>). This API provides list of stocks traded in PSE and latest stock prices changes.</p>
+
+<p>If there are any errors in the company name, please let me know.</p>
+
+<h3 id="tools-used-to-build-the-app">Tools Used To Build The App</h3>
+
+<ul>
+<li>Flutter</li>
+<li>Android Studio</li>
+<li>XCode</li>
+</ul>
+
+
+
+      
     </div>
-    
-    <div class="container">
-      <p>
-        Contact me at <a href="http://twitter.com/digitaljoni">@digitaljoni</a> or by <a href="mailto:joni@digitaljoni.com">email</a>.
-      </p>
-    </div>
-    
-    <section id="social" class="pa3 cf w-100 social">
+
+  </article>
+
+<section id="social" class="pa3 cf w-100 social">
   
   <a href="https://twitter.com/digitaljoni"><i class="fa fa-twitter" aria-hidden="true"></i></a>
   
@@ -111,7 +131,8 @@
   
 </section>
   
-      <footer>
+
+  <footer>
       <div class="container">
         <p class="text-muted"> 
           <a href="https://digitaljoni.com/">digitaljoni</a> &copy;  All rights reserved.
@@ -139,9 +160,5 @@ if (!doNotTrack) {
 
 </body>
 </html>
-
-  </section>
-
-</div>
 
   

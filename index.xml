@@ -22,6 +22,16 @@ You write your Flutter applications using a programming language called Dart. Un
     </item>
     
     <item>
+      <title>PhStocks Tracker</title>
+      <link>https://digitaljoni.com/projects/phstocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digitaljoni.com/projects/phstocks/</guid>
+      <description>PhStocks Tracker is a mobile app that Philippine stock investors can utilize to watch price changes to their selected stocks. This app is primarily focused on users who use Fundamental Analysis as their investment strategy.
+Why I Built The App If you are a busy person (i.e. a full-time employee or a student), you wouldn&amp;rsquo;t have the time to go your stock broker&amp;rsquo;s site daily to check the latest changes to your stocks.</description>
+    </item>
+    
+    <item>
       <title>Dart Resources</title>
       <link>https://digitaljoni.com/resources/dart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

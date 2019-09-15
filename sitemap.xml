@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>https://digitaljoni.com/projects/phstocks/</loc>
+  </url>
+  
+  <url>
     <loc>https://digitaljoni.com/resources/dart/</loc>
   </url>
   
@@ -24,6 +28,10 @@
   <url>
     <loc>https://digitaljoni.com/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://digitaljoni.com/projects/</loc>
   </url>
   
   <url>

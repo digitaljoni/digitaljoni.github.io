@@ -92,6 +92,11 @@ header {
   margin-bottom: .5em;
 }
 
+.heading {
+  color: #FFA500;
+  font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
+}
+
 a {
   color: #FFA500;
 }
@@ -124,8 +129,6 @@ section {
   text-align: center;
 }
 
-
-
 .homepage .container {
   margin-top: 20px;
 }
@@ -146,7 +149,6 @@ section.social a:hover
 {
   color: #c67600;
 }
-
 
 .custom-home-background section.social,
 .custom-home-background section.social a

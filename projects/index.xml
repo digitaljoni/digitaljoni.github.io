@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects on digitaljoni</title>
-    <link>https://digitaljoni.com/projects/</link>
-    <description>Recent content in Projects on digitaljoni</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    
-	<atom:link href="https://digitaljoni.com/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>PhStocks Tracker</title>
-      <link>https://digitaljoni.com/projects/phstocks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://digitaljoni.com/projects/phstocks/</guid>
-      <description>PhStocks Tracker is a mobile app that Philippine stock investors can utilize to watch price changes to their selected stocks. This app is primarily focused on users who use Fundamental Analysis as their investment strategy.
-
-Why I Built The App If you are a busy person (i.e. a full-time employee or a student), you wouldn&amp;rsquo;t have the time to go your stock broker&amp;rsquo;s site daily to check the latest changes to your stocks.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on digitaljoni</title><link>https://digitaljoni.com/projects/</link><description>Recent content in Projects on digitaljoni</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://digitaljoni.com/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>PhStocks Tracker</title><link>https://digitaljoni.com/projects/phstocks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://digitaljoni.com/projects/phstocks/</guid><description>PhStocks Tracker is a mobile app that Philippine stock investors can utilize to watch price changes to their selected stocks. This app is primarily focused on users who use Fundamental Analysis as their investment strategy.
+Why I Built The App If you are a busy person (i.e. a full-time employee or a student), you wouldn't have the time to go your stock broker's site daily to check the latest changes to your stocks.</description></item></channel></rss>

@@ -229,3 +229,10 @@ section.social a:hover
 .top-100 {
   top: 100%;
 }
+
+pre {
+  background: #333333;
+  color: #cccccc;
+  padding: 5px;
+  font-size: .8em;
+}
